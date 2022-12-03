@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-assistivecards">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="assistivecards" clip-path="url(#clip-assistivecards)">
+    <g id="indir" transform="translate(-33 -1.508)">
+      <g id="Group_1608" data-name="Group 1608" transform="translate(-159.192 -14.941)">
+        <rect id="Rectangle_7" data-name="Rectangle 7" width="146.088" height="166.314" rx="25" transform="matrix(0.961, -0.276, 0.276, 0.961, 203.121, 118.118)" fill="#00bbd3"/>
+        <rect id="Rectangle_8" data-name="Rectangle 8" width="177.551" height="202.273" rx="25" transform="translate(252.293 76.549)" fill="#70e3f2"/>
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="177.551" height="202.273" rx="25" transform="translate(305.44 53.941) rotate(8)" fill="#ff81a2"/>
+      </g>
+    </g>
+  </g>
+</svg>
