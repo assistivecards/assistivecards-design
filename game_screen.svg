@@ -17,5 +17,8 @@
       <rect width="1100" height="600" stroke="none"/>
       <rect x="0.5" y="0.5" width="1099" height="599" fill="none"/>
     </g>
+    <text id="_1100x600" data-name="1100x600" transform="translate(266 192)" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1100x600</tspan></text>
+    <text id="_1212x909" data-name="1212x909" transform="translate(206 44)" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1212x909</tspan></text>
+    <text id="_1612x726" data-name="1612x726" transform="translate(12 125)" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1612x726</tspan></text>
   </g>
 </svg>
