@@ -13,12 +13,16 @@
       <rect width="1612" height="726" stroke="none"/>
       <rect x="0.5" y="0.5" width="1611" height="725" fill="none"/>
     </g>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="1212" height="726" transform="translate(194 87)" fill="none"/>
     <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(250 150)" fill="none" stroke="red" stroke-width="1">
       <rect width="1100" height="600" stroke="none"/>
       <rect x="0.5" y="0.5" width="1099" height="599" fill="none"/>
     </g>
-    <text id="_1100x600" data-name="1100x600" transform="translate(266 192)" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1100x600</tspan></text>
-    <text id="_1212x909" data-name="1212x909" transform="translate(206 44)" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1212x909</tspan></text>
-    <text id="_1612x726" data-name="1612x726" transform="translate(12 125)" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1612x726</tspan></text>
+    <text id="_1100x600_-_Functional_Game_safe_area" data-name="1100x600 - Functional Game safe area" transform="translate(266 192)" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1100x600 - Functional Game safe area</tspan></text>
+    <text id="_1212x909_-_Tablet_safe_art_area" data-name="1212x909 - Tablet safe art area" transform="translate(206 44)" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1212x909 - Tablet safe art area</tspan></text>
+    <text id="_1612x726_Phone_safe_art_area" data-name="1612x726
+Phone safe
+art area" transform="translate(12 125)" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1612x726</tspan><tspan x="0" y="33">Phone safe</tspan><tspan x="0" y="66">art area</tspan></text>
+    <text id="_1212x726_-_Art_safe_area" data-name="1212x726 - Art safe area" transform="translate(206 125)" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1212x726 - Art safe area</tspan></text>
   </g>
 </svg>
