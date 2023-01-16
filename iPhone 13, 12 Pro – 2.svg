@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1686" height="441" viewBox="0 0 1686 441">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.143" r="0.594" gradientTransform="matrix(0.998, -0.057, 0.082, 1.432, -0.011, -0.033)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ddcaef"/>
+      <stop offset="1" stop-color="#f9f9f9"/>
+    </radialGradient>
+    <clipPath id="clip-iPhone_13_12_Pro_2">
+      <rect width="1686" height="441"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_13_12_Pro_2" data-name="iPhone 13, 12 Pro – 2" clip-path="url(#clip-iPhone_13_12_Pro_2)">
+    <rect width="1686" height="441" fill="url(#radial-gradient)"/>
+  </g>
+</svg>
