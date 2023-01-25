@@ -8,4 +8,4 @@ Red Line: #971B1B
 White Line: #ffffff
 
 Card BG: #ffffff
-Dark Font Color: 3E455B
+Dark Font Color: #3E455B
